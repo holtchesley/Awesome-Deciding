@@ -12,6 +12,10 @@ This is a collection of my ongoing research into parliamentary procedure in the 
 ### Voting
 * [Collective Decisions and Voting](https://www.amazon.com/Collective-Decisions-Voting-Potential-Public-ebook/dp/B06XDNYQZS/ref=sr_1_1?ie=UTF8&qid=1507291482)
 
+## References
+* [Ace Project on Electoral Systems Case Studies](http://aceproject.org/ace-en/topics/es/esy/)
+
+
 ## Articles
 ### Parliamentary Procedure
 ### Voting
