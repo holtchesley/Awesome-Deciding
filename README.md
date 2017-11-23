@@ -22,7 +22,7 @@ This is a collection of my ongoing research into parliamentary procedure in the 
 #### Gerrymandering
 * [The New Math of Gerrymandering](https://www.nytimes.com/interactive/2017/10/03/upshot/how-the-new-math-of-gerrymandering-works-supreme-court.html)
 #### Voting Methods
-
+* [IRV used in the USA](http://www.sightline.org/2017/11/08/over-300-places-in-the-united-states-have-used-fair-voting-methods/)
 ## Academic Papers
 ### Parliamentary Procedure
 ### Voting
